@@ -1,0 +1,24 @@
+.todos-bg-container {
+    background-color: #f9fbfe;
+    height: 100vh;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-size: cover;
+    
+  }
+  
+  .todos-heading {
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 46px;
+    font-weight: 500;
+    
+  }
+  .todo-items-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  
